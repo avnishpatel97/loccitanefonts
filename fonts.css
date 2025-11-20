@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "LOccitaneSerif";
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Regular.woff2") format("woff2"),
+         url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LOccitaneSerif";
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Italic.woff2") format("woff2"),
+         url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Italic.woff") format("woff");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "LOccitaneSerif";
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Bold.woff2") format("woff2"),
+         url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LOccitaneSerif";
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-BoldItalic.woff2") format("woff2"),
+         url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-BoldItalic.woff") format("woff");
+    font-weight: 700;
+    font-style: italic;
+}
