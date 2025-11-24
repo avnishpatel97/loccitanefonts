@@ -1,3 +1,6 @@
+/* ===========================
+   L'OCCITANE SERIF — REGULAR
+   =========================== */
 @font-face {
     font-family: "LOccitaneSerif";
     src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Regular.woff2") format("woff2"),
@@ -6,6 +9,9 @@
     font-style: normal;
 }
 
+/* ===========================
+   L'OCCITANE SERIF — ITALIC
+   =========================== */
 @font-face {
     font-family: "LOccitaneSerif";
     src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Italic.woff2") format("woff2"),
@@ -14,6 +20,9 @@
     font-style: italic;
 }
 
+/* ===========================
+   L'OCCITANE SERIF — BOLD
+   =========================== */
 @font-face {
     font-family: "LOccitaneSerif";
     src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Bold.woff2") format("woff2"),
@@ -22,10 +31,57 @@
     font-style: normal;
 }
 
+/* ===========================
+   L'OCCITANE SERIF — BOLD ITALIC
+   =========================== */
 @font-face {
     font-family: "LOccitaneSerif";
     src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-BoldItalic.woff2") format("woff2"),
          url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-BoldItalic.woff") format("woff");
     font-weight: 700;
     font-style: italic;
+}
+
+/* ===========================
+   L'OCCITANE SANS — REGULAR
+   =========================== */
+@font-face {
+    font-family: "LOccitaneSans";
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Regular.woff2") format("woff2"),
+         url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* ===========================
+   L'OCCITANE SANS — MEDIUM
+   =========================== */
+@font-face {
+    font-family: "LOccitaneSans";
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Medium.woff2") format("woff2"),
+         url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* ===========================
+   L'OCCITANE SANS — SEMIBOLD
+   =========================== */
+@font-face {
+    font-family: "LOccitaneSans";
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-SemiBold.woff2") format("woff2"),
+         url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-SemiBold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* ===========================
+   L'OCCITANE SANS — BOLD
+   =========================== */
+@font-face {
+    font-family: "LOccitaneSans";
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Bold.woff2") format("woff2"),
+         url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
 }
