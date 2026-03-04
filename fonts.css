@@ -3,7 +3,7 @@
    =========================== */
 @font-face {
     font-family: "LOccitaneSerif";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Regular.woff") format("woff");
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Regular.woff2") format("woff2");
     font-weight: 400;
     font-style: normal;
 }
@@ -13,7 +13,7 @@
    =========================== */
 @font-face {
     font-family: "LOccitaneSerif";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Italic.woff") format("woff");
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Italic.woff2") format("woff2");
     font-weight: 400;
     font-style: italic;
 }
@@ -23,7 +23,7 @@
    =========================== */
 @font-face {
     font-family: "LOccitaneSerif";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Bold.woff") format("woff");
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Bold.woff2") format("woff2");
     font-weight: 700;
     font-style: normal;
 }
@@ -33,7 +33,7 @@
    =========================== */
 @font-face {
     font-family: "LOccitaneSerif";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-BoldItalic.woff") format("woff");
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-BoldItalic.woff2") format("woff2");
     font-weight: 700;
     font-style: italic;
 }
@@ -43,7 +43,7 @@
    =========================== */
 @font-face {
     font-family: "LOccitaneSans";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Regular.woff") format("woff");
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Regular.woff2") format("woff2");
     font-weight: 400;
     font-style: normal;
 }
@@ -53,7 +53,7 @@
    =========================== */
 @font-face {
     font-family: "LOccitaneSans";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Medium.woff") format("woff");
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Medium.woff2") format("woff2");
     font-weight: 500;
     font-style: normal;
 }
@@ -63,7 +63,7 @@
    =========================== */
 @font-face {
     font-family: "LOccitaneSans";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-SemiBold.woff") format("woff");
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-SemiBold.woff2") format("woff2");
     font-weight: 600;
     font-style: normal;
 }
@@ -73,7 +73,7 @@
    =========================== */
 @font-face {
     font-family: "LOccitaneSans";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Bold.woff") format("woff");
+    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Bold.woff2") format("woff2");
     font-weight: 700;
     font-style: normal;
 }
