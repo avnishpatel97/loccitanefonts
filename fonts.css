@@ -9,37 +9,9 @@
     font-style: normal;
 }
 
-@font-face {
-    font-family: "LOccitaneSerif";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Italic.woff2") format("woff2");
-    font-weight: 400;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: "LOccitaneSerif";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-Bold.woff2") format("woff2");
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "LOccitaneSerif";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSerif-BoldItalic.woff2") format("woff2");
-    font-weight: 700;
-    font-style: italic;
-}
-
 /* =========================
    L'OCCITANE SANS
    ========================= */
-
-@font-face {
-    font-family: "LOccitaneSans";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Light.woff2") format("woff2");
-    font-weight: 300;
-    font-style: normal;
-}
 
 @font-face {
     font-family: "LOccitaneSans";
@@ -48,30 +20,4 @@
     font-style: normal;
 }
 
-@font-face {
-    font-family: "LOccitaneSans";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Italic.woff2") format("woff2");
-    font-weight: 400;
-    font-style: italic;
-}
 
-@font-face {
-    font-family: "LOccitaneSans";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Medium.woff2") format("woff2");
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "LOccitaneSans";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-Bold.woff2") format("woff2");
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "LOccitaneSans";
-    src: url("https://raw.githubusercontent.com/avnishpatel97/loccitanefonts/main/LOccitaneSans-BoldItalic.woff2") format("woff2");
-    font-weight: 700;
-    font-style: italic;
-}
